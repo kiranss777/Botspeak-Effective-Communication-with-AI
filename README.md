@@ -20,7 +20,7 @@ I focused on the concept of **Effective Communication with AI** within the Botsp
 
 As required, I created **two distinct educational formats** (and an additional one for enrichment):
 
-1. **Video Tutorial** — [YouTube link](somelink)
+1. **Video Tutorial** — [YouTube link](https://youtu.be/79ZFhzA-c_g)
 
    - Explains the concept with real-world examples and visual storytelling
 
