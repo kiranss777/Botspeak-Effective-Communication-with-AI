@@ -43,12 +43,12 @@ Now produce the best possible answer.
 
 ## Scenario: “Maya and the obviously Misunderstood Assignment”
 
-Maya is a graduate student in **Human-Centered AI**. She has an upcoming assignment where she must write a **500-word literature review** on “AI in healthcare.” Her professor emphasized that the review must:
+> Maya is a graduate student in **Human-Centered AI**. She has an upcoming assignment where she must write a **500-word literature review** on “AI in healthcare.” Her professor emphasized that the review must:
 
-- Include **at least three scholarly sources**
-- Use **APA citations**
-- Be written for an **academic audience** (not casual blog readers)
-- Be delivered by **midnight tonight**
+> - Include **at least three scholarly sources**
+> - Use **APA citations**
+> - Be written for an **academic audience** (not casual blog readers)
+> - Be delivered by **midnight tonight**
 
 Maya decides to use an AI assistant to help with the heavy lifting.
 
@@ -99,8 +99,6 @@ To show how **Effective Communication** works in practice, let’s walk through 
 
 **Actual AI response (GPT5)**
 Here’s a clear, well-rounded piece you could use as an introduction to **AI in healthcare**:
-
----
 
 ## AI in Healthcare: Transforming Medicine
 
