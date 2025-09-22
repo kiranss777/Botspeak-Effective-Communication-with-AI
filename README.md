@@ -1,6 +1,6 @@
-# 🧠 Teach a Botspeak Concept — Assignment Repository
+# 🧠 Teach a Botspeak Concept — INFO7390 Assignment Repository
 
-This repository contains all materials for my **Teach a Botspeak Concept (100 Points)** assignment.  
+This repository contains all materials for my **Teach a Botspeak Concept ** assignment.  
 I focused on the concept of **Effective Communication with AI** within the Botspeak framework and created multi-format educational resources to demonstrate my understanding.
 
 ---
@@ -12,6 +12,7 @@ I focused on the concept of **Effective Communication with AI** within the Botsp
 - **/p3_multiformat_presentation.md** — Part 2: Educational Demonstration
 - **/p4_assessment_tools.md** — Part 4: Assessment Tools (quiz + practical exercise)
 - **/presentation/** — Slides distilling _Effective Communication with AI_ concept
+- **/Botspeak_Effective_communication.pdf** — A short Read of the overall Effective communication Concept
 
 ---
 
